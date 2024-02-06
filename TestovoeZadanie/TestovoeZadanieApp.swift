@@ -15,3 +15,7 @@ struct TestovoeZadanieApp: App {
         }
     }
 }
+
+#Preview {
+    ContentView()
+}
